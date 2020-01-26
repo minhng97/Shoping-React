@@ -1,0 +1,7 @@
+.App {
+  font-family: sans-serif;
+}
+.App img {
+  max-height: 300px;
+  max-width: 200px;
+}
